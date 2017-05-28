@@ -8,7 +8,7 @@ import entities from 'entities';
 import AutoSizedImage from './AutoSizedImage';
 
 const LINE_BREAK = '\n';
-const PARAGRAPH_BREAK = '\n\n';
+const PARAGRAPH_BREAK = '\n';
 const BULLET = '\u2022 ';
 
 const Img = props => {
